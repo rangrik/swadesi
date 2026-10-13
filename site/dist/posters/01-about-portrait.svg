@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+  <title id="title">Swadesi — about the idea</title>
+  <desc id="desc">Informational poster draft. Swadesi is a proposed long-term civic collective. We want to understand how technology affects everyday civic life, learn together, and try small useful projects. The long-term intention is to explore forming a political party in India. Swadesi is not a registered political party today.</desc>
+  <rect width="1200" height="1600" fill="#fff"/>
+  <g fill="#000" font-family="Arial, Helvetica, sans-serif">
+    <text x="80" y="104" font-size="24" font-weight="700" letter-spacing="3">DRAFT FOR REVIEW</text>
+    <path d="M80 150H1120" stroke="#000" stroke-width="2"/>
+    <text x="68" y="360" font-size="218" font-weight="700" letter-spacing="-16">Swadesi</text>
+    <text x="80" y="488" font-size="28" letter-spacing="3">A PROPOSED CIVIC COLLECTIVE</text>
+    <path d="M80 552H1120" stroke="#000" stroke-width="2"/>
+    <text x="80" y="652" font-size="58" letter-spacing="-2"><tspan x="80">Swadesi is a proposed</tspan><tspan x="80" dy="72">long-term civic collective.</tspan></text>
+    <text x="80" y="872" font-size="40"><tspan x="80">We want to understand how technology</tspan><tspan x="80" dy="56">affects everyday civic life, learn together,</tspan><tspan x="80" dy="56">and try small useful projects.</tspan></text>
+    <path d="M80 1110H1120" stroke="#000" stroke-width="2"/>
+    <text x="80" y="1180" font-size="28" font-weight="700">LONG-TERM INTENTION</text>
+    <text x="80" y="1252" font-size="38"><tspan x="80">The long-term intention is to explore</tspan><tspan x="80" dy="54">forming a political party in India.</tspan></text>
+    <text x="80" y="1488" font-size="30"><tspan x="80">Swadesi is not a registered political party today.</tspan></text>
+    <text x="80" y="1536" font-size="24">Informational draft · Local only</text>
+  </g>
+</svg>

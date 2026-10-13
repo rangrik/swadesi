@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Swadesi — proposed first meetup</title>
+  <desc id="desc">Informational poster draft. Date: To be decided. Time: To be decided. Venue: Aquatic Cove Amphitheater, subject to confirmation. This is a proposal. It does not confirm a venue booking. Swadesi is not a registered political party today.</desc>
+  <rect width="1600" height="900" fill="#fff"/>
+  <path d="M630 0H1600V900H630Z" fill="#000"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g fill="#000">
+      <text x="64" y="88" font-size="24" font-weight="700" letter-spacing="3">DRAFT FOR REVIEW</text>
+      <text x="58" y="260" font-size="112" font-weight="700" letter-spacing="-7">Swadesi</text>
+      <text x="64" y="446" font-size="64" letter-spacing="-2"><tspan x="64">Proposed</tspan><tspan x="64" dy="76">first meetup.</tspan></text>
+      <text x="64" y="708" font-size="26"><tspan x="64">This is a proposal.</tspan><tspan x="64" dy="40">It does not confirm a venue booking.</tspan></text>
+      <text x="64" y="838" font-size="22">Informational draft · Local only</text>
+    </g>
+    <g fill="#fff">
+      <text x="710" y="120" font-size="24" letter-spacing="2">DATE</text><text x="710" y="194" font-size="56" letter-spacing="-1">To be decided</text>
+      <path d="M710 238H1520" stroke="#fff" stroke-width="2"/>
+      <text x="710" y="314" font-size="24" letter-spacing="2">TIME</text><text x="710" y="388" font-size="56" letter-spacing="-1">To be decided</text>
+      <path d="M710 432H1520" stroke="#fff" stroke-width="2"/>
+      <text x="710" y="508" font-size="24" letter-spacing="2">VENUE</text>
+      <text x="710" y="584" font-size="50" letter-spacing="-1"><tspan x="710">Aquatic Cove Amphitheater,</tspan><tspan x="710" dy="66">subject to confirmation</tspan></text>
+      <path d="M710 708H1520" stroke="#fff" stroke-width="2"/>
+      <text x="710" y="774" font-size="27"><tspan x="710">Swadesi is not a registered</tspan><tspan x="710" dy="40">political party today.</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Swadesi — proposed principles</title>
+  <desc id="desc">Informational poster draft. Proposed principles are peaceful participation, evidence and corrections, accountable decisions, and financial transparency with personal privacy. Swadesi is not a registered political party today.</desc>
+  <rect width="1200" height="1200" fill="#000"/>
+  <g fill="#fff" font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="92" font-size="24" font-weight="700" letter-spacing="3">DRAFT FOR REVIEW</text>
+    <text x="66" y="258" font-size="150" font-weight="700" letter-spacing="-10">Swadesi</text>
+    <text x="72" y="338" font-size="26" letter-spacing="3">PROPOSED PRINCIPLES</text>
+    <g stroke="#fff" stroke-width="2"><path d="M72 390H1128"/><path d="M72 536H1128"/><path d="M72 682H1128"/><path d="M72 828H1128"/></g>
+    <text x="72" y="474" font-size="24">01</text><text x="164" y="478" font-size="60" letter-spacing="-2">Peaceful participation</text>
+    <text x="72" y="620" font-size="24">02</text><text x="164" y="624" font-size="60" letter-spacing="-2">Evidence and corrections</text>
+    <text x="72" y="766" font-size="24">03</text><text x="164" y="770" font-size="60" letter-spacing="-2">Accountable decisions</text>
+    <text x="72" y="912" font-size="24">04</text><text x="164" y="916" font-size="60" letter-spacing="-2"><tspan x="164">Financial transparency</tspan><tspan x="164" dy="72">with personal privacy</tspan></text>
+    <text x="72" y="1092" font-size="28">Swadesi is not a registered political party today.</text>
+    <text x="72" y="1144" font-size="24">Informational draft · Local only</text>
+  </g>
+</svg>
